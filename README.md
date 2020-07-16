@@ -1,3 +1,6 @@
+自我學習的漢化工程
+
+====
 # dataflowr-slides
 slides for [deep learning courses](http://www.dataflowr.com)
 
